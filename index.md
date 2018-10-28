@@ -7,8 +7,7 @@
       <a-sky color= #87CEFA></a-sky>  
  <a-sky color="#87CEFA"></a-sky> 
 <a-entity position="-.81 1.81 73">
-  <a-camera>
-
+  <a-camera wasd-controls>
     <a-entity cursor="fuse: true;"
           position="0 0 -3"
           geometry="primitive: ring"
