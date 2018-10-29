@@ -20,7 +20,6 @@
 </a-entity>
 </a-camera>
 </a-entity>
-    <a-entity obj-model="obj: url(https://raw.githubusercontent.com/20ramachandrana/mini-memoir-2018/master/street.obj); mtl: url(https://raw.githubusercontent.com/20ramachandrana/mini-memoir-2018/master/street.mtl)" position="-.71 -.021 -1.19" scale=".05 .05 .05" visible="false"></a-entity>
   <a-cylinder position="-3.18 -.3 -6.29" id="ground" color=#fffcc1 radius="500" height="0.1"></a-cylinder>
 <a-box color="gray" scale="7 .2 2000" position="-.73 -.29 0"></a-box>
 <a-entity obj-model="obj: url(https://raw.githubusercontent.com/anoncs50/Immune-System-VR/master/vr.obj); mtl: url(https://raw.githubusercontent.com/anoncs50/Immune-System-VR/master/vr.mtl)" position="0.3 0 -.8"></a-entity>
