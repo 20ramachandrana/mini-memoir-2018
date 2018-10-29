@@ -5,7 +5,6 @@
   <body>
 <a-scene>
       <a-sky color= #87CEFA></a-sky>  
- <a-sky color="#87CEFA"></a-sky> 
 <a-entity position="-.81 1.81 73" wasd-controls>
   <a-camera>
     <a-entity cursor="fuse: true;"
@@ -115,7 +114,7 @@
 <a-animation attribute="visible" begin="62000" to="true"></a-animation>
 <a-animation attribute="visible" begin="72000" to="false"></a-animation> 
 </a-text>
-</a-sky> 
+
 </a-scene>
   </body>
 </html>
