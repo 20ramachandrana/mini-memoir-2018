@@ -5,7 +5,7 @@
   <body>
 <a-scene>
       <a-sky color= #87CEFA></a-sky>  
-<a-entity position="-.81 1.81 23" wasd-controls>
+<a-entity position="-.81 1.81 -23" wasd-controls>
   <a-camera>
     <a-entity cursor="fuse: true;"
           position="0 0 -3"
