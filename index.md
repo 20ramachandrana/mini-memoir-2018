@@ -115,6 +115,10 @@
 <a-animation attribute="visible" begin="52000" to="false"></a-animation> 
 </a-text>
 </a-entity>
+   <a-plane sound="src: url(ticklelaugh.mp3); on: click">
+<a-text color="chartreuse" value="">
+</a-text>
+  </a-plane>
 </a-scene>
   </body>
 </html>
