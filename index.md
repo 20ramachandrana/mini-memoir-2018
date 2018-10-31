@@ -115,9 +115,7 @@
 <a-animation attribute="visible" begin="52000" to="false"></a-animation> 
 </a-text>
 </a-entity>
-   <a-plane sound="src: url(ticklelaugh.mp3); on: click">
-<a-text color="chartreuse" value="">
-</a-text>
+   <a-plane sound="src: url("https://www.youtube.com/watch?v=fwhROm_xFqA&t=0s&list=PLdPXK7qMEThrk11XOVer_4lroIZRLBFUB&index=4"); on: click">
   </a-plane>
 </a-scene>
   </body>
