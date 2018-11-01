@@ -56,7 +56,7 @@
 <a-animation attribute="visible" begin="21000" to="false"></a-animation> 
 </a-text>
 <a-cone color="#000000" rotation="180 0 0" scale=".04 .09 .04" position="-1.14 2.25 -.39" visible="false">
-<a-animation attribute="visible" begin="15500" to="true"></a-animation>  
+<a-animation attribute="visible" begin="16000" to="true"></a-animation>  
 <a-animation attribute="visible" begin="27000" to="false"></a-animation>
 </a-cone>
 <a-text value="antigen" position="-1.21 2.25 -.28" color="#ffff00" scale=".25 .25 .25" visible="false">
@@ -115,8 +115,6 @@
 <a-animation attribute="visible" begin="52000" to="false"></a-animation> 
 </a-text>
 </a-entity>
-   <a-plane sound="src: url(https://www.youtube.com/watch?v=fwhROm_xFqA&t=0s&list=PLdPXK7qMEThrk11XOVer_4lroIZRLBFUB&index=4); on: click">
-  </a-plane>
 </a-scene>
   </body>
 </html>
