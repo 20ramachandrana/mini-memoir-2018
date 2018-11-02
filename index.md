@@ -115,8 +115,7 @@
 <a-animation attribute="visible" begin="52000" to="false"></a-animation> 
 </a-text>
 </a-entity>
-    <a-plane color="chartreuse" sound="src:url(https://raw.githubusercontent.com/20ramachandrana/mini-memoir-2018/master/Blood.mp3); on:click" var entity = document.querySelector('[sound]');
-entity.components.sound.stopSound();>
+    <a-plane color="chartreuse" sound="src:url(https://raw.githubusercontent.com/20ramachandrana/mini-memoir-2018/master/Blood.mp3); on:click">
     </a-plane>
 </a-scene>
   </body>
